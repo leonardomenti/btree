@@ -5,6 +5,7 @@ results.txt
 .ipynb_checkpoints/
 btree.iml
 height_results*
+plot.ipynb*
 split_results*
 time_results*
 assignment-8-Btrees*
